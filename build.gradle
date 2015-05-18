@@ -12,7 +12,7 @@ subprojects {
 project(':a') {
     dependencies {
         compile 'com.google.guava:guava:15.0'
-		compile 'commons-lang:commons-lang:2.5'
+        compile 'commons-lang:commons-lang:2.5'
     }
 }
 
